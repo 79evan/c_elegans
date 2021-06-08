@@ -115,7 +115,7 @@ h1 {
   .section1 {
     flex: 70%;
     background-color: rgb(42, 157, 143,0.7); 
-	padding: 200px;
+	padding: 150px;
 	
   }
   
@@ -125,19 +125,19 @@ h1 {
     flex: 70%;
 	 background-color: rgb(0,0,0,0.7); 
 	/* background-image: url("bg_bees.png");  */
-    padding: 200px;
+    padding: 150px;
   }
   
   .section3 {
     flex: 70%;
     background-color: rgb(42, 157, 143,0.7);
-    padding: 200px;
+    padding: 150px;
   }
   
   .section4 {
     flex: 70%;
     background-color: rgb(0,0,0,0.7);
-    padding: 200px;
+    padding: 150px;
   }
 
 
